@@ -30,3 +30,17 @@ Profile and password updates
 MCQ answer selection
 Timer with auto-submit functionality
 Session closure and logout
+
+BankY 💰
+Description: BankY is a simulation of a basic banking system that allows users to create accounts, deposit and withdraw funds, and transfer funds between accounts. This project explores fundamental concepts of object-oriented programming, data persistence, and basic transaction handling.
+
+Features ✨
+Account creation
+Deposit and withdrawal of funds
+Fund transfer between accounts
+Data persistence using files or databases
+
+Technology Used
+Java
+Object-Oriented Programming
+File handling / Database
