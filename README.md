@@ -1,4 +1,5 @@
 # CBTCIP
+
 Task-1.Number Guessing Game
 
 This Java program implements a simple number guessing game where the player has to guess a random number generated within a specified range. The game consists of multiple rounds, and in each round, the player has a limited number of attempts to guess the correct number.
@@ -16,3 +17,16 @@ Your total score is the sum of scores from all the rounds played. Game Over
 After completing the specified number of rounds, the game ends, and your total score is displayed. Customize the Game You can customize the game by adjusting the following constants in the Task1 class:
 
 MIN_RANGE: Minimum value for the random number generation. MAX_RANGE: Maximum value for the random number generation. MAX_ATTEMPTS: Maximum attempts allowed to guess the number in each round. MAX_ROUNDS: Total number of rounds in the game. Running the Program Compile the Java file (Task1.java). Run the compiled Java program. Contributing Feel free to contribute to this project by creating issues, suggesting improvements, or submitting pull requests. Your contributions are welcomed and appreciated!
+
+
+
+Online Examination System📝
+
+Description: The Online Examination project is a Java application designed to manage and conduct online exams. It supports functionalities like user login, profile management, MCQ answer selection, and automated timing and submission.
+
+Features ✨
+User login and session management
+Profile and password updates
+MCQ answer selection
+Timer with auto-submit functionality
+Session closure and logout
