@@ -1,7 +1,14 @@
-# CBTCIP
+# Java Internship Projects at CIPHERBYTE Technologies 🚀
 
-Task-1.Number Guessing Game
+Welcome to the repository for my Java internship at CIPHERBYTE Technologies! This repository contains four exciting Java projects that showcase my skills and learning progress. Each project is housed in its own folder and represents a unique task.
 
+Repository Structure 📂
+Task 1: Guess the Number 🎲
+Task 2: Online Examination 📝 BankY 💰
+Task 3: BankY 💰
+
+
+Task-1.Number Guessing Game🎲
 This Java program implements a simple number guessing game where the player has to guess a random number generated within a specified range. The game consists of multiple rounds, and in each round, the player has a limited number of attempts to guess the correct number.
 
 How to Play Setup
@@ -20,9 +27,8 @@ MIN_RANGE: Minimum value for the random number generation. MAX_RANGE: Maximum va
 
 
 
-Online Examination System📝
-
-Description: The Online Examination project is a Java application designed to manage and conduct online exams. It supports functionalities like user login, profile management, MCQ answer selection, and automated timing and submission.
+Task-2.Online Examination System📝
+The Online Examination project is a Java application designed to manage and conduct online exams. It supports functionalities like user login, profile management, MCQ answer selection, and automated timing and submission.
 
 Features ✨
 User login and session management
@@ -31,8 +37,10 @@ MCQ answer selection
 Timer with auto-submit functionality
 Session closure and logout
 
-BankY 💰
-Description: BankY is a simulation of a basic banking system that allows users to create accounts, deposit and withdraw funds, and transfer funds between accounts. This project explores fundamental concepts of object-oriented programming, data persistence, and basic transaction handling.
+
+
+Task-3.BankY 💰
+BankY is a simulation of a basic banking system that allows users to create accounts, deposit and withdraw funds, and transfer funds between accounts. This project explores fundamental concepts of object-oriented programming, data persistence, and basic transaction handling.
 
 Features ✨
 Account creation
